@@ -1,0 +1,8 @@
+Change-Id: Ib2454d86879a9a789dcbec7e6d1bc46070373186
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:38:31 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4997
+Project: platform/upstream/xcmiscproto
+Branch: refs/heads/tizen
