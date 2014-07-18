@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           xcmiscproto
 Version:        1.2.2
 Release:        1
